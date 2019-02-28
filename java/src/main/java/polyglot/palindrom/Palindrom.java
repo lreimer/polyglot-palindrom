@@ -4,7 +4,7 @@ import static java.util.Objects.isNull;
 
 public class Palindrom {
 
-    public boolean isPalindrom(String value) {
+    public boolean isPalindromIterative(String value) {
         if (isNull(value)) {
             return false;
         } else if (value.length() <= 1) {

@@ -23,9 +23,9 @@ class PalindromSpec extends Specification {
         results = [false, true, true, false, true, true, true, true, false]
     }
 
-    def "Check default Palindrom implementation"() {
+    def "Check iterative Palindrom implementation"() {
         expect:
-        palindrom.isPalindrom(value) == result
+        palindrom.isPalindromIterative(value) == result
 
         where:
         value << values
