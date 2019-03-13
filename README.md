@@ -1,3 +1,3 @@
-# The Polyglot Palindrom
+# The Polyglot Palindrome
 
-Contains Palindrom implementations for various languages.
+Contains Palindrome implementations for various languages.
