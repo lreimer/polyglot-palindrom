@@ -1,0 +1,16 @@
+{
+  "name": "javascript-palindrome",
+  "version": "1.0.0",
+  "description": "Implements a simple 'isPalindrome' function (case-insensitive)",
+  "author": {
+    "name": "Roland Hummel",
+    "email": "git@defaude.info"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "WTFPL",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
